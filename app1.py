@@ -9,7 +9,7 @@
 # import streamlit as st
 
 # # Initialize OpenAI components
-# OPENAI_API_KEY = "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"  # 🔑 Replace with your key
+# OPENAI_API_KEY = "sk-proj-t_EmPuLMXNrZ0MlxzPxuaOe1IM05GRr4CyCbBRRkyD_n1uqUAVds0ahLETT3BlbkFJHvX8mVID2pXkywAs-USPVnfautRNkJOPCNTkv02PnUr4WqvX45shgXWNMAbcd"  # 🔑 Replace with your key
 
 # def get_vector_store(pdf_path):
 #     """Create vector store from PDF"""
